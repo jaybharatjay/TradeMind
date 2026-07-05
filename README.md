@@ -1,0 +1,2 @@
+# TradeMind
+AI trade system
