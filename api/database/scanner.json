@@ -1,0 +1,17 @@
+[
+  {
+    "symbol": "RELIANCE",
+    "signal": "BUY",
+    "price": 1568
+  },
+  {
+    "symbol": "TCS",
+    "signal": "SELL",
+    "price": 3892
+  },
+  {
+    "symbol": "INFY",
+    "signal": "BUY",
+    "price": 1285
+  }
+]

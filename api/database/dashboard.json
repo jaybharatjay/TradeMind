@@ -1,0 +1,34 @@
+{
+  "scanner": [
+    {
+      "symbol": "RELIANCE",
+      "signal": "BUY",
+      "price": 1568
+    },
+    {
+      "symbol": "TCS",
+      "signal": "SELL",
+      "price": 3892
+    },
+    {
+      "symbol": "INFY",
+      "signal": "BUY",
+      "price": 1785
+    }
+  ],
+  "watchlist": [
+    {
+      "symbol": "SBIN"
+    },
+    {
+      "symbol": "HDFCBANK"
+    }
+  ],
+  "journal": [
+    {
+      "id": 1,
+      "stock": "RELIANCE",
+      "pnl": 2400
+    }
+  ]
+}
